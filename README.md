@@ -7,10 +7,10 @@ The purpose of this analysis is to...
 - How is the school summary affected
 - How does repalcing the ninth graders math and reading scores affect Thomas High School's performance relative to the other schools
 - How does replacing ninth-grade scores affect the following
- - Math and reading scores by grade
- - Scores by school spending
- - Scores by school size
- - Scores by school type
+  A. Math and reading scores by grade
+  B. Scores by school spending
+  C. Scores by school size
+  D. Scores by school type
 
 # Summary: Four Changes in the updated school district analysis after changes
 1.
