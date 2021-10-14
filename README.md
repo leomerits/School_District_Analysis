@@ -2,6 +2,10 @@
 # Overview of the School District Analysis
 The purpose of this analysis is to...
 
+# Resources:
+- Data Source: missing_grades.csv, schools_complete.csv, students_complete.csv
+- Software: Jupyter
+
 # Results:
 - How is the district summary affected
 - How is the school summary affected
