@@ -7,7 +7,7 @@ The purpose of this analysis is to...
 - Software: Jupyter
 
 # Results:
-# - How is the district summary affected
+ - # How is the district summary affected
   The analysis shows how each school performs in different paspectives individually. Their average scores in different classes was clearly identified.
   
 - How is the school summary affected
