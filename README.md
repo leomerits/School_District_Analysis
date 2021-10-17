@@ -15,19 +15,19 @@ Because of the fact that the intergrity of the results of the Thomas High School
   - The analysis shows how each school performs in different paspectives individually. Their average scores in different classes was clearly identified.
   
  # How is the school summary affected
-  
+  Removing the school's ninth grade scores changed the overall passing percentages of Thomas High School, increased the average scores of the school for math and reading.
   
  # How does repalcing the ninth graders math and reading scores affect Thomas High School's performance relative to the other schools
  - Replacing the ninth graders math and reading scores affected Thomas High School not in a good way in my opinion, because since the results were incomplete, replacing them with     NaN  helped the school district in getting more accurate data in terms of spending and students performance, but it affected the overall performance of Thomas High School.
 
 # How does replacing ninth-grade scores affect the following
-  1. Math and reading scores by grade
+  1. Math and reading scores by grade: 
   2. Scores by school spending
   3. Scores by school size
   4. Scores by school type
 
 # Summary: Four Changes in the updated school district analysis after changes
-1.
-2.
-3.
-4.
+1. The overall passing percentage of Thomas High School decreased.
+2. The average scores of Thomas High School for math and reading increased.
+3. The overall spending range for the spending range of $630-$640 per student decreased.
+4. Thomas High School still retained se
