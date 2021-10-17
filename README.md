@@ -30,4 +30,4 @@ Because of the fact that the intergrity of the results of the Thomas High School
 1. The overall passing percentage of Thomas High School decreased.
 2. The average scores of Thomas High School for math and reading increased.
 3. The overall spending range for the spending range of $630-$640 per student decreased.
-4. Thomas High School still retained se
+4. School ranking changed.
