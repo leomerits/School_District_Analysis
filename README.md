@@ -15,9 +15,13 @@ Because of the fact that the intergrity of the results of the Thomas High School
   - Replacing the ninth graders math and reading scores affected Thomas High School not in a good way in my opinion, because since the results were incomplete, replacing them         with NaN  helped the school district in getting more accurate data in terms of spending and students performance, but it affected the overall performance of Thomas High           School.
  Replacing the Thomas High School ninth graders math and reading affected:
   1. Math and reading scores by grade increased 
-  2. Scores by school spending did not increase.
-  3. Scores by school size increased. 
-  4. Scores by school type also increased.
+  2. Scores by school spending, average scores and passing percentages do not increase as spending        per student increases..
+  3. Scores by school size, it was found that large schools have lowest average scores and passing        percentages.
+  ![image](https://user-images.githubusercontent.com/34757498/137606741-0e4e83e4-38dd-4b0b-bd20-c1e06f99d9c0.png)
+ 
+  5. Scores by school type, chater schools performed better than the Distict schools according to         the analysis.
+  ![image](https://user-images.githubusercontent.com/34757498/137606693-ca24a75b-9e88-4ac5-80e4-cdd79392487b.png)
+
  
 Four changes in the updated school district analysis after changes can be found in these:
 - The overall passing percentage of Thomas High School decreased.
